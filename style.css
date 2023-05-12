@@ -1,0 +1,13 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    height: 100px;
+}
+.myfoto {
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+
+}
